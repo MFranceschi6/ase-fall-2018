@@ -1,3 +1,2 @@
 # ase-fall-2018
-
-foto piedi
+Corso ASE(Advanced Software Engineering) 2018/2019, laboratorio
